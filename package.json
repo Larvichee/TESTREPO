@@ -1,0 +1,24 @@
+{
+  "name": "testrepo",
+  "version": "1.0.0",
+  "description": "The testing",
+  "main": "commitlint.config.js",
+  "scripts": {
+    "test": "echo \"g\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Larvichee/TESTREPO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Larvichee/TESTREPO/issues"
+  },
+  "homepage": "https://github.com/Larvichee/TESTREPO#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^11.0.0",
+    "@commitlint/config-conventional": "^11.0.0",
+    "husky": "^4.3.6"
+  }
+}
